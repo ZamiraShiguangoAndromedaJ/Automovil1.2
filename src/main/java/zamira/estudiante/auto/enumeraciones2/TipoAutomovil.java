@@ -8,6 +8,12 @@ package zamira.estudiante.auto.enumeraciones2;
  *
  * @author user
  */
-public class TipoAutomovil {
+public enum TipoAutomovil {
+    
+    Subcompacto,
+    Compacto,
+    Familiar,
+    Ejecutivo,
+    SUV
     
 }

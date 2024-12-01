@@ -8,6 +8,11 @@ package zamira.estudiante.auto.enumeraciones1;
  *
  * @author user
  */
-public class TipoCombustible {
+public enum TipoCombustible {
+    
+     Biotenol,
+    Diesel,
+    Biodiesel,
+    Gasnatural
     
 }

@@ -8,6 +8,14 @@ package zamira.estudiante.auto.enumeraciones3;
  *
  * @author user
  */
-public class TipoColor {
+public enum TipoColor {
+    
+     Blanco,
+    Negro,
+    Naranja,
+    Amarillo,
+    Verde,
+    Azul,
+    Violet
     
 }
